@@ -12,7 +12,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <unit-version>4.12</unit-version>
+    <unit-version>4.11</unit-version>
   </properties>
 
 <profiles>
